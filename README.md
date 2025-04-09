@@ -13,4 +13,4 @@ This is the first page in a repository we will use to learn some of GitHub's bas
 - [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 - [GitHub documentation](https://docs.github.com/)
 
-// This is a comment. Add your favorite food below this line using a hyphenated list.
+<!--This is a comment. Add your favorite food below this line using a hyphenated list.-->
