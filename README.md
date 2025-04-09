@@ -6,7 +6,7 @@ A repository for my course on professional and technical writing.
 This is the first page in a repository we will use to learn some of GitHub's basic features. In class, we'll be going through the following steps:
 
 - Exploring Markdown, one of the most typical writing formats used on GitHub.
-- Learning how to fork a GitHub repository (a "repo") to a new branch, commit changes, and push those changes back to the main branch.
+- Learning how to fork a GitHub repository (a "repo") to a new branch, commit changes, and submit a pull request to the main branch for review.
 - Creating our own repositories that others can push changes to.
 
 ## A few useful links
