@@ -1,4 +1,4 @@
-# professional-writing
+# Professional Writing Repository
 A repository for my course on professional and technical writing.
 
 ## Introduction
