@@ -17,4 +17,5 @@ This is the first page in a repository we will use to learn some of GitHub's bas
 
 ## Our favorite foods
 <!--This is a comment. Add your favorite food below this line using a hyphenated list.-->
--Honey BBQ Chicken
+- Honey BBQ Chicken
+- My favorite food is wings. 
