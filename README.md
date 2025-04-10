@@ -21,3 +21,5 @@ This is the first page in a repository we will use to learn some of GitHub's bas
 - Pizza
 - Pasta
 - Watermelon
+- Chicken Alfredo 
+- My favorite food is wings. 
