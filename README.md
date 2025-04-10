@@ -17,3 +17,22 @@ This is the first page in a repository we will use to learn some of GitHub's bas
 
 ## Our favorite foods
 <!--This is a comment. Add your favorite food below this line using a hyphenated list.-->
+- Salmon
+- Steak
+- Mangoes
+- Apples
+- Ramen
+- Fries
+- Burgers
+- Pizza
+- Tacos
+- Mac n Cheese
+- Strawberries
+- Grapes
+- Oranges
+- Ice Cream
+- Brownies
+- Chocolate
+- Spaghetti
+- Alfredo
+- Chicken
