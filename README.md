@@ -12,7 +12,7 @@ This is the first page in a repository we will use to learn some of GitHub's bas
 ## A few useful links
 - [Markdown syntax](https://www.markdownguide.org/basic-syntax/)
 - [GitHub documentation](https://docs.github.com/)
-- [GitHub fork tutorial](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+- [GitHub fork tutorial](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)
 - [GitHub pull request tutorial](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 ## Our favorite foods
