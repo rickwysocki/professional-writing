@@ -17,3 +17,7 @@ This is the first page in a repository we will use to learn some of GitHub's bas
 
 ## Our favorite foods
 <!--This is a comment. Add your favorite food below this line using a hyphenated list.-->
+- Apples
+- Pizza
+- Pasta
+- Watermelon
